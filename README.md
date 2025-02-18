@@ -14,9 +14,6 @@ This script is continuously updated to keep up with the latest game changes.
 - **Cards ESP:** See the cards of everyone.
 - **Fullbrights:** See in the dark.
 
-#### 2. **Main**
-- **Auto-Shoot in Duel:** Auto kill your opponent in duel.
-
 ## How to Use
 
 1. **Copy the Script:** You can copy the script at: 
